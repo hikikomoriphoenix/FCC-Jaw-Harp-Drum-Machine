@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/FCC-Jaw-Harp-Drum-Machine/static/css/main.4e70db36.chunk.css",
+    "main.js": "/FCC-Jaw-Harp-Drum-Machine/static/js/main.71b14ab1.chunk.js",
+    "main.js.map": "/FCC-Jaw-Harp-Drum-Machine/static/js/main.71b14ab1.chunk.js.map",
+    "runtime-main.js": "/FCC-Jaw-Harp-Drum-Machine/static/js/runtime-main.2ee906e7.js",
+    "runtime-main.js.map": "/FCC-Jaw-Harp-Drum-Machine/static/js/runtime-main.2ee906e7.js.map",
+    "static/css/2.89f067aa.chunk.css": "/FCC-Jaw-Harp-Drum-Machine/static/css/2.89f067aa.chunk.css",
+    "static/js/2.e672c9ba.chunk.js": "/FCC-Jaw-Harp-Drum-Machine/static/js/2.e672c9ba.chunk.js",
+    "static/js/2.e672c9ba.chunk.js.map": "/FCC-Jaw-Harp-Drum-Machine/static/js/2.e672c9ba.chunk.js.map",
+    "index.html": "/FCC-Jaw-Harp-Drum-Machine/index.html",
+    "precache-manifest.e98d9b49e137d87b57d4be83ce69512b.js": "/FCC-Jaw-Harp-Drum-Machine/precache-manifest.e98d9b49e137d87b57d4be83ce69512b.js",
+    "service-worker.js": "/FCC-Jaw-Harp-Drum-Machine/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/FCC-Jaw-Harp-Drum-Machine/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.4e70db36.chunk.css.map": "/FCC-Jaw-Harp-Drum-Machine/static/css/main.4e70db36.chunk.css.map",
+    "static/js/2.e672c9ba.chunk.js.LICENSE.txt": "/FCC-Jaw-Harp-Drum-Machine/static/js/2.e672c9ba.chunk.js.LICENSE.txt",
+    "static/media/jaw-harp-1.wav": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-1.6cab182a.wav",
+    "static/media/jaw-harp-2.wav": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-2.f860e73f.wav",
+    "static/media/jaw-harp-3.wav": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-3.a4de4166.wav",
+    "static/media/jaw-harp-4.wav": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-4.82ab9227.wav",
+    "static/media/jaw-harp-5.wav": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-5.ed5eab3a.wav",
+    "static/media/jaw-harp-6.wav": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-6.21017986.wav",
+    "static/media/jaw-harp-7.wav": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-7.10337bec.wav",
+    "static/media/jaw-harp-8.wav": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-8.85e30d3e.wav",
+    "static/media/jaw-harp-9.wav": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-9.773e124b.wav",
+    "static/media/App.css": "/FCC-Jaw-Harp-Drum-Machine/static/media/jaw-harp-drum-machine-border.87580bb9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ee906e7.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.e672c9ba.chunk.js",
+    "static/css/main.4e70db36.chunk.css",
+    "static/js/main.71b14ab1.chunk.js"
+  ]
+}
